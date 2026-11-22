@@ -56,4 +56,4 @@ Tests: `python -m pytest`
 
 New orders are saved to the `stop_work_orders` table. A trigger on that table adds a row to `notifications` for each new order, and `main.py` emails any that haven't been sent yet. If an email fails, it's retried on the next run.
 
-`exampledata/` has the request and responses I captured from the browser while working out the API. The tests use one of them.
+`exampledata/` has a request and response I captured from the browser while working out the API. The tests use the response.
