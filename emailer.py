@@ -6,11 +6,11 @@ from email.message import EmailMessage
 BODY = """\
 A new stop work order has been added to the NSW Register of Building Work Orders.
 
-Company name:    {company_name}
-Company number:  {company_number}
-Date added:      {date_added}
-Address:         {address}
-New company:     {new_company}
+Company name: {company_name}
+Company number: {company_number}
+Date added: {date_added}
+Address: {address}
+New company: {new_company}
 
 {url}
 """

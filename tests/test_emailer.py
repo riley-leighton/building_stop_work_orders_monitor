@@ -17,16 +17,16 @@ def test_email_has_the_company_details():
     body = message.get_content()
 
     assert message["Subject"] == "New stop work order: Perry Properties Pty Ltd"
-    assert "Company name:    Perry Properties Pty Ltd" in body
-    assert "Company number:  002 635 421" in body
-    assert "Date added:      20 April 2026" in body
-    assert "New company:     Yes" in body
+    assert "Company name: Perry Properties Pty Ltd" in body
+    assert "Company number: 002 635 421" in body
+    assert "Date added: 20 April 2026" in body
+    assert "New company: Yes" in body
 
 
 def test_email_when_details_are_missing():
     order = {**ORDER, "company_number": None, "address": None, "earlier_orders": 2}
     body = build_email(order, "monitor@example.com", ["someone@example.com"]).get_content()
 
-    assert "Company number:  Not published on the register" in body
-    assert "Address:         Not listed" in body
-    assert "New company:     No (2 earlier orders)" in body
+    assert "Company number: Not published on the register" in body
+    assert "Address: Not listed" in body
+    assert "New company: No (2 earlier orders)" in body

@@ -37,11 +37,11 @@ Subject: New stop work order: Sustainable Homes Australia R And D Pty Ltd
 
 A new stop work order has been added to the NSW Register of Building Work Orders.
 
-Company name:    Sustainable Homes Australia R And D Pty Ltd
-Company number:  647 350 187
-Date added:      27 August 2026
-Address:         14-17 Herd Street, Mount Hutton, NSW, 2290 (Lot 22/ DP1304602)
-New company:     No (2 earlier orders)
+Company name: Sustainable Homes Australia R And D Pty Ltd
+Company number: 647 350 187
+Date added: 27 August 2026
+Address: 14-17 Herd Street, Mount Hutton, NSW, 2290 (Lot 22/ DP1304602)
+New company: No (2 earlier orders)
 
 https://www.nsw.gov.au/departments-and-agencies/building-commission/register-of-building-work-orders/...
 ```
