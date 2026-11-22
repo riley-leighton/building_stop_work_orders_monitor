@@ -57,10 +57,3 @@ Tests: `python -m pytest`
 New orders are saved to the `stop_work_orders` table. A trigger on that table adds a row to `notifications` for each new order, and `main.py` emails any that haven't been sent yet. If an email fails, it's retried on the next run.
 
 `exampledata/` has the request and responses I captured from the browser while working out the API. The tests use one of them.
-
-## Notes
-
-- I read "SQL server database" as any SQL database and used Postgres. Moving to Microsoft SQL Server would mean rewriting the trigger and the insert in T-SQL and using pyodbc instead of psycopg.
-- An email is sent for each new order, and it says whether the company is new or already has earlier orders on the register.
-- The API has no company name or number fields. The name comes from the order title and the ACN from the order text. If an order doesn't mention the ACN, one from another order for the same company is used, otherwise the email says it isn't published.
-- "Date added" is the order's "Publication Date" on the register.
