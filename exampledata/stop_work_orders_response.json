@@ -1,0 +1,1414 @@
+{
+  "took": 9,
+  "timed_out": false,
+  "_shards": {
+    "total": 5,
+    "successful": 5,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 11,
+      "relation": "eq"
+    },
+    "max_score": null,
+    "hits": [
+      {
+        "_index": "prod_content",
+        "_id": "entity:node/124693:en",
+        "_score": 0.0,
+        "_source": {
+          "category_weight": [
+            {
+              "id": "6566",
+              "name": "Stop work orders",
+              "weight": "0"
+            },
+            {
+              "id": "8949",
+              "name": "Building and construction",
+              "weight": "0"
+            }
+          ],
+          "content": [
+            "section 895 design building practitioners act 2020 sustainable homes australia pty ltd acn 647 350 187 subject issued with stop work order order relation building located 1417 herd street mount hutton new south wales 2290 lot 22 dp1304602 development imposition condition will take effect immediately please read condition carefully comply with stop work order dated 7 july 2026 altered condition failure comply with order offence may result criminal proceedings 1417 herd street mount hutton nsw 2290 lot 22 dp1304602 building commission nsw citizen public servants home buyers home owners housing construction stop work orders building construction page navigation hide page navigation27 august 2026orderdcs cluster digital communications file pdf 14058kb parent register building work orders published thu 27082026 1000 exclude from listings excluded"
+          ],
+          "grant_is_ongoing": [
+            false
+          ],
+          "nid_pagetop": [
+            2925
+          ],
+          "subtype_index": [
+            0
+          ],
+          "url": [
+            "/departments-and-agencies/building-commission/register-of-building-work-orders/notice-of-imposition-of-a-condition-upon-a-stop-work-order-for-sustainable-homes-australia-r-and-d-pty-ltd"
+          ],
+          "agency_name": [
+            "Building Commission NSW"
+          ],
+          "display_date": [
+            1787788800
+          ],
+          "html_content": [
+            "<p><strong>Section 89(5) of the Design and Building Practitioners Act 2020</strong></p><p>Sustainable Homes Australia R And D Pty Ltd (ACN 647 350 187) (the Subject) is issued with this Stop Work Order (this Order) in relation to the building located at 14-17 Herd Street, Mount Hutton, New South Wales 2290 (Lot 22/ DP1304602) (the Development).</p><p>The imposition of the Condition will take effect immediately.</p><p>Please read the Condition carefully and comply with the Stop Work Order dated 7 July 2026, as altered by the Condition.</p><p>Failure to comply with the Order is an offence and may result in criminal proceedings.</p>"
+          ],
+          "name_audience": [
+            "Citizen",
+            "Public Servants",
+            "Home buyers",
+            "Home owners"
+          ],
+          "name_category": [
+            "Stop work orders",
+            "Building and construction"
+          ],
+          "name_editorial": [
+            "DCS Cluster Digital Communications"
+          ],
+          "name_resource_type": [
+            "Order"
+          ],
+          "name_topic": [
+            "Housing and construction"
+          ],
+          "nid": [
+            124693
+          ],
+          "nid_parent": [
+            71800,
+            72675,
+            2925
+          ],
+          "resource_date": [
+            1787832000
+          ],
+          "status": [
+            true
+          ],
+          "sticky": [
+            false
+          ],
+          "summary": [
+            "14-17 Herd Street, Mount Hutton, NSW, 2290 (Lot 22/ DP1304602)"
+          ],
+          "tid_agency": [
+            354
+          ],
+          "tid_category": [
+            6566,
+            8949
+          ],
+          "tid_need": [
+            6415,
+            6418,
+            615,
+            614
+          ],
+          "tid_poi_agency": [
+            354
+          ],
+          "tid_resource_type": [
+            6569
+          ],
+          "tid_topic": [
+            446
+          ],
+          "title": [
+            "Notice of Imposition of a Condition Upon a Stop Work Order for Sustainable Homes Australia R And D Pty Ltd"
+          ],
+          "type": [
+            "resource"
+          ],
+          "utc_changed": [
+            1787814780
+          ],
+          "utc_created": [
+            1787814306
+          ],
+          "uuid": [
+            "fda4be3a-e1d4-4101-b336-6130be66a5db"
+          ],
+          "vid": [
+            20367281
+          ],
+          "search_api_id": [
+            "entity:node/124693:en"
+          ],
+          "search_api_datasource": [
+            "entity:node"
+          ],
+          "search_api_language": [
+            "en"
+          ],
+          "search_api_boost": [
+            0.1
+          ]
+        },
+        "sort": [
+          0.0,
+          1787832000000
+        ]
+      },
+      {
+        "_index": "prod_content",
+        "_id": "entity:node/121226:en",
+        "_score": 0.0,
+        "_source": {
+          "category_weight": [
+            {
+              "id": "6566",
+              "name": "Stop work orders",
+              "weight": "0"
+            },
+            {
+              "id": "8949",
+              "name": "Building and construction",
+              "weight": "0"
+            }
+          ],
+          "content": [
+            "section 129 home building act 1989 nsw sustainable homes australia pty ltd developer issued with stop work order order relation residential building work located 71 terrigal drive terrigal 2260 lot 24 511006 development developer required ensure all work development stops 5pm 24 july 2026 please read stop work order carefully comply with conditions failure comply with order offence may result criminal proceedings 71 terrigal drive terrigal nsw 2260 lot 24 511006 building commission nsw business public servants home buyers home owners housing construction stop work orders building construction page navigation hide page navigation24 july 2026orderdcs cluster digital communications file pdf 15555kb parent register building work orders published fri 24072026 1000 exclude from listings excluded"
+          ],
+          "grant_is_ongoing": [
+            false
+          ],
+          "nid_pagetop": [
+            2925
+          ],
+          "subtype_index": [
+            0
+          ],
+          "url": [
+            "/departments-and-agencies/building-commission/register-of-building-work-orders/stop-work-order-for-sustainable-homes-australia-r-and-d-pty-ltd"
+          ],
+          "agency_name": [
+            "Building Commission NSW"
+          ],
+          "display_date": [
+            1784851200
+          ],
+          "html_content": [
+            "<p><strong>Section 129 of the Home Building Act 1989 (NSW)</strong></p><p>Sustainable Homes Australia R and D Pty Ltd (the Developer) is issued with this Stop Work Order (this Order) in relation to residential building work located at 71 Terrigal Drive Terrigal 2260 Lot 24 DP 511006 (the Development).</p><p>The Developer is required to ensure all work at the Development stops by 5pm on 24 July 2026.</p><p>Please read the Stop Work Order carefully and comply with the conditions.</p><p>Failure to comply with this Order is an offence and may result in criminal proceedings.</p>"
+          ],
+          "name_audience": [
+            "Business",
+            "Public Servants",
+            "Home buyers",
+            "Home owners"
+          ],
+          "name_category": [
+            "Stop work orders",
+            "Building and construction"
+          ],
+          "name_editorial": [
+            "DCS Cluster Digital Communications"
+          ],
+          "name_resource_type": [
+            "Order"
+          ],
+          "name_topic": [
+            "Housing and construction"
+          ],
+          "nid": [
+            121226
+          ],
+          "nid_parent": [
+            71800,
+            72675,
+            2925
+          ],
+          "resource_date": [
+            1784894400
+          ],
+          "status": [
+            true
+          ],
+          "sticky": [
+            false
+          ],
+          "summary": [
+            "71 Terrigal Drive, Terrigal, NSW, 2260 (Lot 24 DP 511006)"
+          ],
+          "tid_agency": [
+            354
+          ],
+          "tid_category": [
+            6566,
+            8949
+          ],
+          "tid_need": [
+            96,
+            6418,
+            615,
+            614
+          ],
+          "tid_poi_agency": [
+            354
+          ],
+          "tid_resource_type": [
+            6569
+          ],
+          "tid_topic": [
+            446
+          ],
+          "title": [
+            "Stop Work Order for Sustainable Homes Australia R and D Pty Ltd"
+          ],
+          "type": [
+            "resource"
+          ],
+          "utc_changed": [
+            1784852612
+          ],
+          "utc_created": [
+            1784852184
+          ],
+          "uuid": [
+            "4327def1-3071-46be-9616-2c84990a2d07"
+          ],
+          "vid": [
+            19602009
+          ],
+          "search_api_id": [
+            "entity:node/121226:en"
+          ],
+          "search_api_datasource": [
+            "entity:node"
+          ],
+          "search_api_language": [
+            "en"
+          ],
+          "search_api_boost": [
+            0.1
+          ]
+        },
+        "sort": [
+          0.0,
+          1784894400000
+        ]
+      },
+      {
+        "_index": "prod_content",
+        "_id": "entity:node/120598:en",
+        "_score": 0.0,
+        "_source": {
+          "category_weight": [
+            {
+              "id": "8949",
+              "name": "Building and construction",
+              "weight": "0"
+            },
+            {
+              "id": "6566",
+              "name": "Stop work orders",
+              "weight": "0"
+            }
+          ],
+          "content": [
+            "section 89 design building practitioners act 2020 summary order sustainable homes australia pty ltd acn 647 350 187 subject issued with stop work order order relation building located 1417 herd street mount hutton new south wales 2290 lot 22 dp1304602 development subject required ensure all work development stops accordance with order effective immediately from date order order subject following conditions works strictly necessary ensure site safety prevent collapse address imminent hazards works permitted under order must supervised registered structural engineer holding appropriate qualifications registration under design building practitioners legislation evidence oversight must maintained provided relevant authority upon request order consists entire document must considered whole please read order carefully comply with applicable conditions detailed above you understand any part order please obtain independent advice failure comply with order offence may result criminal proceedings 1417 herd street mount hutton new south wales 2290 lot 22 dp1304602 building commission nsw business public servants home buyers home owners housing construction building construction stop work orders page navigation hide page navigation07 july 2026orderdcs cluster digital communications file pdf 22678kb parent register building work orders published tue 07072026 1000 exclude from listings excluded"
+          ],
+          "grant_is_ongoing": [
+            false
+          ],
+          "nid_pagetop": [
+            2925
+          ],
+          "subtype_index": [
+            0
+          ],
+          "url": [
+            "/departments-and-agencies/building-commission/register-of-building-work-orders/stop-work-order-for-sustainable-homes-australia-r-and-d-pty-ltd-0"
+          ],
+          "agency_name": [
+            "Building Commission NSW"
+          ],
+          "display_date": [
+            1783382400
+          ],
+          "html_content": [
+            "<p><strong>Section 89 of the Design and Building Practitioners Act 2020</strong></p><p>Summary of Order</p><ol type=\"A\"><li><br>Sustainable Homes Australia R And D Pty Ltd (ACN 647 350 187) (the Subject) is issued with this Stop Work Order (this Order) in relation to the building located at 14-17 Herd Street, Mount Hutton, New South Wales 2290 (Lot 22/ DP1304602) (the Development).</li><li>The Subject is required to ensure all work at the Development stops in accordance with the Order, effective immediately from the date of this Order.</li><li>This Order is subject to the following conditions:<ol type=\"a\"><li>Works that are strictly necessary to ensure site safety, prevent collapse, or address imminent hazards.</li><li>Works permitted under this order must be supervised by a registered structural engineer holding appropriate qualifications and registration under the Design and Building Practitioners Legislation. Evidence of such oversight must be maintained and provided to the relevant authority upon request.</li></ol></li><li>This Order consists of the entire document and must be considered as a whole. Please read this Order carefully and comply with the applicable conditions detailed above. If you do not understand any part of this Order, please obtain independent advice.</li><li>Failure to comply with this Order is an offence and may result in criminal proceedings.</li></ol>"
+          ],
+          "name_audience": [
+            "Business",
+            "Public Servants",
+            "Home buyers",
+            "Home owners"
+          ],
+          "name_category": [
+            "Building and construction",
+            "Stop work orders"
+          ],
+          "name_editorial": [
+            "DCS Cluster Digital Communications"
+          ],
+          "name_resource_type": [
+            "Order"
+          ],
+          "name_topic": [
+            "Housing and construction"
+          ],
+          "nid": [
+            120598
+          ],
+          "nid_parent": [
+            71800,
+            72675,
+            2925
+          ],
+          "resource_date": [
+            1783425600
+          ],
+          "status": [
+            true
+          ],
+          "sticky": [
+            false
+          ],
+          "summary": [
+            "14-17 Herd Street, Mount Hutton, New South Wales, 2290 (Lot 22/ DP1304602)"
+          ],
+          "tid_agency": [
+            354
+          ],
+          "tid_category": [
+            8949,
+            6566
+          ],
+          "tid_need": [
+            96,
+            6418,
+            615,
+            614
+          ],
+          "tid_poi_agency": [
+            354
+          ],
+          "tid_resource_type": [
+            6569
+          ],
+          "tid_topic": [
+            446
+          ],
+          "title": [
+            "Stop Work Order for Sustainable Homes Australia R And D Pty Ltd"
+          ],
+          "type": [
+            "resource"
+          ],
+          "utc_changed": [
+            1783391122
+          ],
+          "utc_created": [
+            1783390929
+          ],
+          "uuid": [
+            "39125ea9-ce7c-4268-b923-6b6e88c97889"
+          ],
+          "vid": [
+            19225094
+          ],
+          "search_api_id": [
+            "entity:node/120598:en"
+          ],
+          "search_api_datasource": [
+            "entity:node"
+          ],
+          "search_api_language": [
+            "en"
+          ],
+          "search_api_boost": [
+            0.1
+          ]
+        },
+        "sort": [
+          0.0,
+          1783425600000
+        ]
+      },
+      {
+        "_index": "prod_content",
+        "_id": "entity:node/117637:en",
+        "_score": 0.0,
+        "_source": {
+          "category_weight": [
+            {
+              "id": "6566",
+              "name": "Stop work orders",
+              "weight": "0"
+            },
+            {
+              "id": "6565",
+              "name": "Building Commission NSW",
+              "weight": "0"
+            },
+            {
+              "id": "8949",
+              "name": "Building and construction",
+              "weight": "0"
+            }
+          ],
+          "content": [
+            "section 29 residential apartment buildings compliance enforcement powers act 2020 summary order natoby pty ltd acn 601533519 developer issued with stop work order order relation residential apartment building located 11701176 botany road botany nsw 2019 lot 176066 lot 1 907188 lot 1 656306 lot 2 sec1 dp773 development developer required ensure all building work development stop accordance with order effective from date order accordance with conditions order order subject following conditions continue with excavation monitoring complete bulk excavation continue through with construction placement finishing ground floor level structural concrete slab accordance with following developer conduct works accordance with methodologies execution monitoring outlined consulting engineers report dated 26 february 2026 email from consulting engineers dated 2 april 2026 event movement thresholds reached exceeded works stop immediately secretary informed ocaudits customerservicenswgovau developer conduct works whilst monitoring throughout each day crack gauges installed property 1178 botany road botany nsw 2019 event any movement detected these crack gauges works stop immediately secretary informed ocaudits customerservicenswgovau developer may have building work carried out stabilise development including impact impacted properties 11701176 botany road botany nsw 2019 lot 176066 lot 1 907188 lot 1 656306 lot 2 sec1 dp773 building commission nsw building commission nsw business public servants home buyers local councils housing construction stop work orders building commission nsw building construction building construction page navigation hide page navigation04 may 2026orderdcs cluster digital communications file pdf 2495kb parent register building work orders published mon 04052026 1000 exclude from listings excluded"
+          ],
+          "grant_is_ongoing": [
+            false
+          ],
+          "nid_pagetop": [
+            2925
+          ],
+          "subtype_index": [
+            0
+          ],
+          "url": [
+            "/departments-and-agencies/building-commission/register-of-building-work-orders/modified-stop-work-order-for-natoby-pty-ltd"
+          ],
+          "agency_name": [
+            "Building Commission NSW"
+          ],
+          "display_date": [
+            1777852800
+          ],
+          "field_industry": [
+            "10452"
+          ],
+          "html_content": [
+            "<p><strong>Section 29 of the Residential Apartment Buildings (Compliance and Enforcement Powers) Act 2020</strong></p><p>Summary of Order</p><ol type=\"A\"><li>Natoby Pty Ltd (A.C.N 601533519) (the Developer) is issued with this Stop Work Order (Order) in relation to a residential apartment building located at 1170-1176 Botany Road, Botany, NSW 2019 (Lot B DP 176066, Lot 1 DP 907188, Lot 1 DP 656306, Lot 2 Sec1 DP773) (the Development).</li><li>The Developer is required to ensure all building work on the Development stop in accordance with the Order, effective from the date of this Order and in accordance with the conditions in this Order.</li><li>This Order is subject to the following conditions:&nbsp;<br><br>Continue with excavation and monitoring to complete bulk excavation and continue through with construction to placement and finishing of the ground floor level structural concrete slab in accordance with the following:<br>&nbsp;<ol type=\"a\"><li>The Developer to conduct the works in accordance with the methodologies for execution and monitoring outlined in the EI Consulting Engineers Report dated 26 February 2026 and the email from EI Consulting Engineers dated 2 April 2026. In the event the movement thresholds are reached or exceeded, works are to stop immediately and the Secretary informed at OCaudits@customerservice.nsw.gov.au; and</li><li>The Developer to conduct the works whilst monitoring throughout each day the crack gauges installed to the property at 1178 Botany Road, Botany, NSW, 2019. In the event of any movement detected in these crack gauges, works are to stop immediately and the Secretary informed at OCAudits@customerservice.nsw.gov.au</li><li>The Developer may have building work carried out to stabilise the Development including the impact on “Impacted Properties”.</li></ol></li></ol>"
+          ],
+          "name_audience": [
+            "Business",
+            "Public Servants",
+            "Home buyers",
+            "Local councils"
+          ],
+          "name_category": [
+            "Stop work orders",
+            "Building Commission NSW",
+            "Building and construction"
+          ],
+          "name_editorial": [
+            "DCS Cluster Digital Communications"
+          ],
+          "name_industry": [
+            "Building and construction"
+          ],
+          "name_resource_type": [
+            "Order"
+          ],
+          "name_topic": [
+            "Housing and construction"
+          ],
+          "nid": [
+            117637
+          ],
+          "nid_parent": [
+            71800,
+            72675,
+            2925
+          ],
+          "resource_date": [
+            1777896000
+          ],
+          "status": [
+            true
+          ],
+          "sticky": [
+            false
+          ],
+          "summary": [
+            "1170-1176 Botany Road, Botany, NSW 2019 Lot B DP 176066, Lot 1 DP 907188, Lot 1 DP 656306, Lot 2 Sec1 DP773"
+          ],
+          "tid_agency": [
+            354
+          ],
+          "tid_category": [
+            6566,
+            6565,
+            8949
+          ],
+          "tid_need": [
+            96,
+            6418,
+            615,
+            9338
+          ],
+          "tid_poi_agency": [
+            354
+          ],
+          "tid_resource_type": [
+            6569
+          ],
+          "tid_topic": [
+            446
+          ],
+          "title": [
+            "Modified Stop Work Order for Natoby Pty Ltd"
+          ],
+          "type": [
+            "resource"
+          ],
+          "utc_changed": [
+            1777876607
+          ],
+          "utc_created": [
+            1777875614
+          ],
+          "uuid": [
+            "b9a974d5-8625-4df5-8e3f-b58aaf580763"
+          ],
+          "vid": [
+            17789154
+          ],
+          "search_api_id": [
+            "entity:node/117637:en"
+          ],
+          "search_api_datasource": [
+            "entity:node"
+          ],
+          "search_api_language": [
+            "en"
+          ],
+          "search_api_boost": [
+            0.1
+          ]
+        },
+        "sort": [
+          0.0,
+          1777896000000
+        ]
+      },
+      {
+        "_index": "prod_content",
+        "_id": "entity:node/117218:en",
+        "_score": 0.0,
+        "_source": {
+          "category_weight": [
+            {
+              "id": "6566",
+              "name": "Stop work orders",
+              "weight": "0"
+            },
+            {
+              "id": "6565",
+              "name": "Building Commission NSW",
+              "weight": "0"
+            },
+            {
+              "id": "8949",
+              "name": "Building and construction",
+              "weight": "0"
+            }
+          ],
+          "content": [
+            "issued under section 29 residential apartment buildings compliance enforcement powers act 2020 summary order perry properties pty ltd acn 002635421 developer issued with stop work order order relation residential apartment building located 4351 addison road marrickville nsw lot 101 1304727 development developer required ensure all building work development stops accordance with order effective from date order order subject following conditions order shall apply building work carried out development necessary give effect following works render site safe comply with any draft final rectification orders issued building commission nsw order consists entire document must considered whole please read order carefully comply with any applicable conditions detailed below you understand any part order please obtain independent advice failure comply with order offence may result criminal proceedings 4351 addison road marrickville nsw 2204 lot 101 1304727 building commission nsw building commission nsw business public servants home buyers local councils housing construction stop work orders building commission nsw building construction building construction page navigation hide page navigation20 april 2026orderdcs cluster digital communications file pdf 20858kb parent register building work orders published mon 20042026 1000 exclude from listings excluded"
+          ],
+          "grant_is_ongoing": [
+            false
+          ],
+          "nid_pagetop": [
+            2925
+          ],
+          "subtype_index": [
+            0
+          ],
+          "url": [
+            "/departments-and-agencies/building-commission/register-of-building-work-orders/stop-work-order-for-perry-properties-pty-ltd"
+          ],
+          "agency_name": [
+            "Building Commission NSW"
+          ],
+          "display_date": [
+            1776643200
+          ],
+          "field_industry": [
+            "10452"
+          ],
+          "html_content": [
+            "<p><strong>Issued under Section 29 of the Residential Apartment Buildings (Compliance and Enforcement Powers) Act 2020</strong></p><p>Summary of Order</p><ol type=\"A\"><li>Perry Properties Pty Ltd (ACN 002635421) (the Developer) is issued with this Stop Work Order (Order) in relation to a residential apartment building located at 43-51 Addison Road, Marrickville NSW (Lot 101/ DP 1304727) (the Development).</li><li>The Developer is required to ensure all building work on the Development stops in accordance with the Order, effective from the date of this Order.</li><li>This Order is subject to the following conditions:<ol type=\"a\"><li>The Order shall not apply to building work carried out at the Development that is necessary to give effect to the following works:<ol type=\"i\"><li>To render the site safe.</li><li>Comply with any Draft or Final Rectification Orders issued by the Building Commission NSW.</li></ol></li></ol></li><li>This Order consists of the entire document and must be considered as a whole. Please read this Order carefully and comply with any applicable conditions detailed below. If you do not understand any part of this Order, please obtain independent advice.</li><li>Failure to comply with this Order is an offence and may result in criminal proceedings.</li></ol>"
+          ],
+          "name_audience": [
+            "Business",
+            "Public Servants",
+            "Home buyers",
+            "Local councils"
+          ],
+          "name_category": [
+            "Stop work orders",
+            "Building Commission NSW",
+            "Building and construction"
+          ],
+          "name_editorial": [
+            "DCS Cluster Digital Communications"
+          ],
+          "name_industry": [
+            "Building and construction"
+          ],
+          "name_resource_type": [
+            "Order"
+          ],
+          "name_topic": [
+            "Housing and construction"
+          ],
+          "nid": [
+            117218
+          ],
+          "nid_parent": [
+            71800,
+            72675,
+            2925
+          ],
+          "resource_date": [
+            1776686400
+          ],
+          "status": [
+            true
+          ],
+          "sticky": [
+            false
+          ],
+          "summary": [
+            "43-51 Addison Road, Marrickville NSW 2204 Lot 101/ DP 1304727"
+          ],
+          "tid_agency": [
+            354
+          ],
+          "tid_category": [
+            6566,
+            6565,
+            8949
+          ],
+          "tid_need": [
+            96,
+            6418,
+            615,
+            9338
+          ],
+          "tid_poi_agency": [
+            354
+          ],
+          "tid_resource_type": [
+            6569
+          ],
+          "tid_topic": [
+            446
+          ],
+          "title": [
+            "Stop Work Order for Perry Properties Pty Ltd"
+          ],
+          "type": [
+            "resource"
+          ],
+          "utc_changed": [
+            1788748020
+          ],
+          "utc_created": [
+            1776737078
+          ],
+          "uuid": [
+            "1f5f7136-6e59-4996-83b4-e39889ef1ee0"
+          ],
+          "vid": [
+            20616260
+          ],
+          "search_api_id": [
+            "entity:node/117218:en"
+          ],
+          "search_api_datasource": [
+            "entity:node"
+          ],
+          "search_api_language": [
+            "en"
+          ],
+          "search_api_boost": [
+            0.1
+          ]
+        },
+        "sort": [
+          0.0,
+          1776686400000
+        ]
+      },
+      {
+        "_index": "prod_content",
+        "_id": "entity:node/116377:en",
+        "_score": 0.0,
+        "_source": {
+          "category_weight": [
+            {
+              "id": "6565",
+              "name": "Building Commission NSW",
+              "weight": "0"
+            },
+            {
+              "id": "6566",
+              "name": "Stop work orders",
+              "weight": "0"
+            },
+            {
+              "id": "8949",
+              "name": "Building and construction",
+              "weight": "0"
+            }
+          ],
+          "content": [
+            "issued under section 29 residential apartment buildings compliance enforcement powers act 2020 richmond rose bay pty ltd acn 636 583 581 trustee richmond rose bay unit trust abn 27 184 210 983 developer issued with stop work order order relation residential apartment building located 68 richmond road rose bay nsw 2029 lot 21 dp1292580 development 68 richmond road rose bay nsw 2029 lot 1 dp436354 building commission nsw building commission nsw business public servants home buyers local councils housing construction building commission nsw stop work orders building construction page navigation hide page navigation27 march 2026orderdcs cluster digital communications file pdf 19396kb parent register building work orders published fri 27032026 1100 exclude from listings excluded"
+          ],
+          "grant_is_ongoing": [
+            false
+          ],
+          "nid_pagetop": [
+            2925
+          ],
+          "subtype_index": [
+            0
+          ],
+          "url": [
+            "/departments-and-agencies/building-commission/register-of-building-work-orders/stop-work-order-for-richmond-rose-bay-pty-ltd"
+          ],
+          "agency_name": [
+            "Building Commission NSW"
+          ],
+          "display_date": [
+            1774569600
+          ],
+          "html_content": [
+            "<p><strong>Issued under Section 29 of the Residential Apartment Buildings (Compliance and Enforcement Powers) Act 2020</strong></p><p>Richmond Rose Bay Pty Ltd (ACN 636 583 581) as trustee for The Richmond Rose Bay Unit Trust (ABN 27 184 210 983) (the Developer) is issued with this Stop Work Order (the Order) in relation to residential apartment building located at 6-8 Richmond Road, Rose Bay NSW 2029 (Lot 21 DP1292580) (the Development).&nbsp;</p>"
+          ],
+          "name_audience": [
+            "Business",
+            "Public Servants",
+            "Home buyers",
+            "Local councils"
+          ],
+          "name_category": [
+            "Building Commission NSW",
+            "Stop work orders",
+            "Building and construction"
+          ],
+          "name_editorial": [
+            "DCS Cluster Digital Communications"
+          ],
+          "name_resource_type": [
+            "Order"
+          ],
+          "name_topic": [
+            "Housing and construction"
+          ],
+          "nid": [
+            116377
+          ],
+          "nid_parent": [
+            71800,
+            72675,
+            2925
+          ],
+          "resource_date": [
+            1774612800
+          ],
+          "status": [
+            true
+          ],
+          "sticky": [
+            false
+          ],
+          "summary": [
+            "6-8 Richmond Road, Rose Bay NSW 2029 (Lot 1 DP436354)"
+          ],
+          "tid_agency": [
+            354
+          ],
+          "tid_category": [
+            6565,
+            6566,
+            8949
+          ],
+          "tid_need": [
+            96,
+            6418,
+            615,
+            9338
+          ],
+          "tid_poi_agency": [
+            354
+          ],
+          "tid_resource_type": [
+            6569
+          ],
+          "tid_topic": [
+            446
+          ],
+          "title": [
+            "Stop Work order for Richmond Rose Bay Pty Ltd"
+          ],
+          "type": [
+            "resource"
+          ],
+          "utc_changed": [
+            1775105340
+          ],
+          "utc_created": [
+            1774591939
+          ],
+          "uuid": [
+            "c13b826e-6806-4a95-9d23-9c91dae5568e"
+          ],
+          "vid": [
+            17121379
+          ],
+          "search_api_id": [
+            "entity:node/116377:en"
+          ],
+          "search_api_datasource": [
+            "entity:node"
+          ],
+          "search_api_language": [
+            "en"
+          ],
+          "search_api_boost": [
+            0.1
+          ]
+        },
+        "sort": [
+          0.0,
+          1774612800000
+        ]
+      },
+      {
+        "_index": "prod_content",
+        "_id": "entity:node/113097:en",
+        "_score": 0.0,
+        "_source": {
+          "category_weight": [
+            {
+              "id": "6566",
+              "name": "Stop work orders",
+              "weight": "0"
+            },
+            {
+              "id": "8949",
+              "name": "Building and construction",
+              "weight": "0"
+            }
+          ],
+          "content": [
+            "section 29 residential apartment buildings compliance enforcement powers act 2020 summary order psr crownview investment pty ltd acn 601 764 578 developer issued with stop work order order relation residential apartment building located 373 crown street 2 parkinson street wollongong nsw 2500 lot 100 1214547 development developer required ensure all building work development stops accordance with order effective from date order order subject following conditions developer may conduct investigative professional engineering work investigative specialist work developer may carry out minor building work purpose maintaining making safe building subject written approval from authorised officers order consists entire document must considered whole please read order carefully comply with any applicable conditions detailed below you understand any part order please obtain independent advice failure comply with order offence may result criminal proceedings 373 crown street 2 parkinson street wollongong nsw 2500 lot 100 1214547 building commission nsw business public servants home buyers home owners housing construction stop work orders building construction 17 february 2026orderdcs cluster digital communications file pdf 23147kb parent register building work orders published tue 17022026 1100 exclude from listings excluded"
+          ],
+          "grant_is_ongoing": [
+            false
+          ],
+          "nid_pagetop": [
+            2925
+          ],
+          "subtype_index": [
+            0
+          ],
+          "url": [
+            "/departments-and-agencies/building-commission/register-of-building-work-orders/stop-work-order-for-psr-crownview-investment-pty-ltd-at-373-crown-st-and-2-parkinson-st-wollongong-2500"
+          ],
+          "agency_name": [
+            "Building Commission NSW"
+          ],
+          "display_date": [
+            1771286400
+          ],
+          "html_content": [
+            "<p><strong>Section 29 of the Residential Apartment Buildings (Compliance and Enforcement Powers) Act 2020</strong></p><p>Summary of Order</p><ul class=\"dcs-list--upper-latin\"><li>PSR Crownview Investment Pty Ltd (ACN 601 764 578) (the Developer) is issued with this Stop Work Order (Order) in relation to a residential apartment building located at 373 Crown Street and 2 Parkinson Street, Wollongong NSW 2500 Lot 100 (DP 1214547) (the Development).</li><li>The Developer is required to ensure all building work on the Development stops in accordance with the Order, effective from the date of this Order.</li><li>This Order is subject to the following conditions:<ul class=\"dcs-list--lower-latin\"><li>The Developer may conduct investigative professional engineering work and/or investigative specialist work.</li><li>The Developer may carry out minor building work for the purpose of maintaining or making safe the building, subject to written approval from Authorised Officers.</li></ul></li><li>This Order consists of the entire document and must be considered as a whole. Please read this Order carefully and comply with any applicable conditions detailed below. If you do not understand any part of this Order, please obtain independent advice.</li><li>Failure to comply with this Order is an offence and may result in criminal proceedings.</li></ul>"
+          ],
+          "name_audience": [
+            "Business",
+            "Public Servants",
+            "Home buyers",
+            "Home owners"
+          ],
+          "name_category": [
+            "Stop work orders",
+            "Building and construction"
+          ],
+          "name_editorial": [
+            "DCS Cluster Digital Communications"
+          ],
+          "name_resource_type": [
+            "Order"
+          ],
+          "name_topic": [
+            "Housing and construction"
+          ],
+          "nid": [
+            113097
+          ],
+          "nid_parent": [
+            71800,
+            72675,
+            2925
+          ],
+          "resource_date": [
+            1771329600
+          ],
+          "status": [
+            true
+          ],
+          "sticky": [
+            false
+          ],
+          "summary": [
+            "373 Crown Street and 2 Parkinson Street, Wollongong, NSW, 2500 Lot 100 (DP 1214547)"
+          ],
+          "tid_agency": [
+            354
+          ],
+          "tid_category": [
+            6566,
+            8949
+          ],
+          "tid_need": [
+            96,
+            6418,
+            615,
+            614
+          ],
+          "tid_poi_agency": [
+            354
+          ],
+          "tid_resource_type": [
+            6569
+          ],
+          "tid_topic": [
+            446
+          ],
+          "title": [
+            "Stop Work Order for PSR Crownview Investment Pty Ltd"
+          ],
+          "type": [
+            "resource"
+          ],
+          "utc_changed": [
+            1771296639
+          ],
+          "utc_created": [
+            1771296311
+          ],
+          "uuid": [
+            "84ea6929-908f-42a9-b878-14195495baab"
+          ],
+          "vid": [
+            16595487
+          ],
+          "search_api_id": [
+            "entity:node/113097:en"
+          ],
+          "search_api_datasource": [
+            "entity:node"
+          ],
+          "search_api_language": [
+            "en"
+          ],
+          "search_api_boost": [
+            0.1
+          ]
+        },
+        "sort": [
+          0.0,
+          1771329600000
+        ]
+      },
+      {
+        "_index": "prod_content",
+        "_id": "entity:node/112105:en",
+        "_score": 0.0,
+        "_source": {
+          "category_weight": [
+            {
+              "id": "6566",
+              "name": "Stop work orders",
+              "weight": "0"
+            },
+            {
+              "id": "8949",
+              "name": "Building and construction",
+              "weight": "0"
+            }
+          ],
+          "content": [
+            "section 129 home building act 1989 nsw ausfield investment pty ltd developer issued with stop work order order relation residential building work located 137 bayview avenue earlwood nsw 2206 lot 26 dp8880 development developer required ensure all work development stops 5pm 4 february 2026 please read stop work order carefully comply with conditions failure comply with order offence may result criminal proceedings 137 bayview avenue earlwood nsw 2206 building commission nsw business public servants home buyers home owners housing construction stop work orders building construction 04 february 2026orderdcs cluster digital communications file pdf 12264kb parent register building work orders published wed 04022026 1100 exclude from listings excluded"
+          ],
+          "grant_is_ongoing": [
+            false
+          ],
+          "nid_pagetop": [
+            2925
+          ],
+          "subtype_index": [
+            0
+          ],
+          "url": [
+            "/departments-and-agencies/building-commission/register-of-building-work-orders/stop-work-order-for-ausfield-investment-pty-ltd-at-137-bayview-ave-earlwood-2206"
+          ],
+          "agency_name": [
+            "Building Commission NSW"
+          ],
+          "display_date": [
+            1770163200
+          ],
+          "html_content": [
+            "<p><strong>Section 129 of the Home Building Act 1989 (NSW)</strong></p><p>Ausfield Investment Pty Ltd (the Developer) is issued with this Stop Work Order (this Order) in relation to residential building work located at 137 Bayview Avenue, Earlwood NSW 2206 (Lot 26 DP8880) (the Development).</p><p>The Developer is required to ensure all work at the Development stops by 5pm on 4 February 2026.<br>Please read the Stop Work Order carefully and comply with the conditions.</p><p>Failure to comply with this Order is an offence and may result in criminal proceedings.</p>"
+          ],
+          "name_audience": [
+            "Business",
+            "Public Servants",
+            "Home buyers",
+            "Home owners"
+          ],
+          "name_category": [
+            "Stop work orders",
+            "Building and construction"
+          ],
+          "name_editorial": [
+            "DCS Cluster Digital Communications"
+          ],
+          "name_resource_type": [
+            "Order"
+          ],
+          "name_topic": [
+            "Housing and construction"
+          ],
+          "nid": [
+            112105
+          ],
+          "nid_parent": [
+            71800,
+            72675,
+            2925
+          ],
+          "resource_date": [
+            1770206400
+          ],
+          "status": [
+            true
+          ],
+          "sticky": [
+            false
+          ],
+          "summary": [
+            "137 Bayview Avenue, Earlwood, NSW, 2206"
+          ],
+          "tid_agency": [
+            354
+          ],
+          "tid_category": [
+            6566,
+            8949
+          ],
+          "tid_need": [
+            96,
+            6418,
+            615,
+            614
+          ],
+          "tid_poi_agency": [
+            354
+          ],
+          "tid_resource_type": [
+            6569
+          ],
+          "tid_topic": [
+            446
+          ],
+          "title": [
+            "Stop Work Order for Ausfield Investment Pty Ltd"
+          ],
+          "type": [
+            "resource"
+          ],
+          "utc_changed": [
+            1770265286
+          ],
+          "utc_created": [
+            1770175574
+          ],
+          "uuid": [
+            "72b489fb-ac44-4170-a58a-974f2ccb6e0b"
+          ],
+          "vid": [
+            16476487
+          ],
+          "search_api_id": [
+            "entity:node/112105:en"
+          ],
+          "search_api_datasource": [
+            "entity:node"
+          ],
+          "search_api_language": [
+            "en"
+          ],
+          "search_api_boost": [
+            0.1
+          ]
+        },
+        "sort": [
+          0.0,
+          1770206400000
+        ]
+      },
+      {
+        "_index": "prod_content",
+        "_id": "entity:node/109674:en",
+        "_score": 0.0,
+        "_source": {
+          "category_weight": [
+            {
+              "id": "6566",
+              "name": "Stop work orders",
+              "weight": "0"
+            }
+          ],
+          "content": [
+            "section 129 home building act 1989 nsw ausfield investment pty ltd developer issued with stop work order order relation residential building work located 18 unit 1 roach street arncliffe nsw 2205 lot 221 dp1123 development developer required ensure all work development stops 5pm 15 december 2025 please read stop work order carefully comply with conditions failure comply with order offence may result criminal proceedings 18 unit 1 roach street arncliffe nsw 2205 lot 221 dp1123 building commission nsw business public servants home buyers housing construction stop work orders 15 december 2025order dcs cluster digital communications file pdf 1582kb parent register building work orders published mon 15122025 1100 exclude from listings excluded"
+          ],
+          "grant_is_ongoing": [
+            false
+          ],
+          "nid_pagetop": [
+            2925
+          ],
+          "subtype_index": [
+            0
+          ],
+          "url": [
+            "/departments-and-agencies/building-commission/register-of-building-work-orders/stop-work-order-for-ausfield-investment-pty-ltd-at-unit-1-18-roach-st-arncliffe-2205"
+          ],
+          "agency_name": [
+            "Building Commission NSW"
+          ],
+          "display_date": [
+            1765756800
+          ],
+          "html_content": [
+            "<p><strong>Section 129 of the Home Building Act 1989 (NSW)</strong></p><p>Ausfield Investment Pty Ltd (the Developer) is issued with this Stop Work Order (this Order) in relation to residential building work located at 18 (Unit 1) Roach Street, Arncliffe NSW 2205 (Lot 22/1/DP1123) (the Development).</p><p>The Developer is required to ensure all work at the Development stops by 5pm on 15 December 2025.</p><p>Please read the Stop Work Order carefully and comply with the conditions.</p><p>Failure to comply with this Order is an offence and may result in criminal proceedings.</p>"
+          ],
+          "name_audience": [
+            "Business",
+            "Public Servants",
+            "Home buyers"
+          ],
+          "name_category": [
+            "Stop work orders"
+          ],
+          "name_editorial": [
+            "DCS Cluster Digital Communications"
+          ],
+          "name_resource_type": [
+            "Order"
+          ],
+          "name_topic": [
+            "Housing and construction"
+          ],
+          "nid": [
+            109674
+          ],
+          "nid_parent": [
+            71800,
+            72675,
+            2925
+          ],
+          "resource_date": [
+            1765800000
+          ],
+          "status": [
+            true
+          ],
+          "sticky": [
+            false
+          ],
+          "summary": [
+            "18 (Unit 1) Roach Street, Arncliffe, NSW, 2205 (Lot 22/1/DP1123)"
+          ],
+          "tid_agency": [
+            354
+          ],
+          "tid_category": [
+            6566
+          ],
+          "tid_need": [
+            96,
+            6418,
+            615
+          ],
+          "tid_poi_agency": [
+            354
+          ],
+          "tid_resource_type": [
+            6569
+          ],
+          "tid_topic": [
+            446
+          ],
+          "title": [
+            "Stop Work Order for Ausfield Investment Pty Ltd"
+          ],
+          "type": [
+            "resource"
+          ],
+          "utc_changed": [
+            1765773011
+          ],
+          "utc_created": [
+            1765757807
+          ],
+          "uuid": [
+            "03d89596-7d68-4239-b2ba-baafc8f4e96d"
+          ],
+          "vid": [
+            15243283
+          ],
+          "search_api_id": [
+            "entity:node/109674:en"
+          ],
+          "search_api_datasource": [
+            "entity:node"
+          ],
+          "search_api_language": [
+            "en"
+          ],
+          "search_api_boost": [
+            0.1
+          ]
+        },
+        "sort": [
+          0.0,
+          1765800000000
+        ]
+      },
+      {
+        "_index": "prod_content",
+        "_id": "entity:node/109691:en",
+        "_score": 0.0,
+        "_source": {
+          "category_weight": [
+            {
+              "id": "6566",
+              "name": "Stop work orders",
+              "weight": "0"
+            }
+          ],
+          "content": [
+            "section 129 home building act 1989 nsw ausfield investment pty ltd developer issued with stop work order order relation residential building work located 18a unit 2 roach street arncliffe nsw 2205 lot 221 dp1123 development developer required ensure all work development stops 5pm 15 december 2025 please read stop work order carefully comply with conditions failure comply with order offence may result criminal proceedings 18a unit 2 roach street arncliffe nsw 2205 lot 221 dp1123 building commission nsw business public servants home buyers housing construction stop work orders 15 december 2025order dcs cluster digital communications file pdf 17054kb parent register building work orders published mon 15122025 1100 exclude from listings excluded"
+          ],
+          "grant_is_ongoing": [
+            false
+          ],
+          "nid_pagetop": [
+            2925
+          ],
+          "subtype_index": [
+            0
+          ],
+          "url": [
+            "/departments-and-agencies/building-commission/register-of-building-work-orders/stop-work-order-for-ausfield-investment-pty-ltd-at-unit-2-18a-roach-st-arncliffe-2205"
+          ],
+          "agency_name": [
+            "Building Commission NSW"
+          ],
+          "display_date": [
+            1765756800
+          ],
+          "html_content": [
+            "<p><strong>Section 129 of the Home Building Act 1989 (NSW)</strong></p><p>Ausfield Investment Pty Ltd (the Developer) is issued with this Stop Work Order (this Order) in relation to residential building work located at 18A (Unit 2) Roach Street, Arncliffe NSW 2205 (Lot 22/1/DP1123) (the Development).</p><p>The Developer is required to ensure all work at the development stops by 5pm on 15 December 2025.</p><p>Please read the Stop Work Order carefully and comply with the conditions.</p><p>Failure to comply with this Order is an offence and may result in criminal proceedings.</p>"
+          ],
+          "name_audience": [
+            "Business",
+            "Public Servants",
+            "Home buyers"
+          ],
+          "name_category": [
+            "Stop work orders"
+          ],
+          "name_editorial": [
+            "DCS Cluster Digital Communications"
+          ],
+          "name_resource_type": [
+            "Order"
+          ],
+          "name_topic": [
+            "Housing and construction"
+          ],
+          "nid": [
+            109691
+          ],
+          "nid_parent": [
+            71800,
+            72675,
+            2925
+          ],
+          "resource_date": [
+            1765800000
+          ],
+          "status": [
+            true
+          ],
+          "sticky": [
+            false
+          ],
+          "summary": [
+            "18A (Unit 2) Roach Street, Arncliffe, NSW, 2205 (Lot 22/1/DP1123)"
+          ],
+          "tid_agency": [
+            354
+          ],
+          "tid_category": [
+            6566
+          ],
+          "tid_need": [
+            96,
+            6418,
+            615
+          ],
+          "tid_poi_agency": [
+            354
+          ],
+          "tid_resource_type": [
+            6569
+          ],
+          "tid_topic": [
+            446
+          ],
+          "title": [
+            "Stop Work Order for Ausfield Investment Pty Ltd"
+          ],
+          "type": [
+            "resource"
+          ],
+          "utc_changed": [
+            1765773105
+          ],
+          "utc_created": [
+            1765772623
+          ],
+          "uuid": [
+            "2b67dace-9975-45a9-b522-0a5a96860b98"
+          ],
+          "vid": [
+            15243381
+          ],
+          "search_api_id": [
+            "entity:node/109691:en"
+          ],
+          "search_api_datasource": [
+            "entity:node"
+          ],
+          "search_api_language": [
+            "en"
+          ],
+          "search_api_boost": [
+            0.1
+          ]
+        },
+        "sort": [
+          0.0,
+          1765800000000
+        ]
+      }
+    ]
+  }
+}
