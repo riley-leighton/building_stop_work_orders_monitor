@@ -1,8 +1,6 @@
 # Building Stop Work Orders Monitor
 
-Scrapes the stop work orders from the NSW [Register of Building Work Orders](https://www.nsw.gov.au/departments-and-agencies/building-commission/register-of-building-work-orders), saves them to Postgres and sends an email when a new one is added.
-
-The register page is a React app that loads its list from a search API, so the scraper calls that API directly instead of parsing the page.
+Scrapes the stop work orders from the NSW [Register of Building Work Orders](https://www.nsw.gov.au/departments-and-agencies/building-commission/register-of-building-work-orders) using the search API behind the page, saves them to Postgres and sends an email when a new one is added.
 
 ## Setup
 
@@ -19,9 +17,9 @@ python main.py
 
 On Windows, activate the venv with `.venv\Scripts\activate`, and use Task Scheduler instead of cron.
 
-For Gmail, turn on 2-Step Verification, create an app password at https://myaccount.google.com/apppasswords and use it as `SMTP_PASSWORD`. To try it without a real email account, run a local test mail server such as [Mailpit](https://mailpit.axllent.org/) and set `SMTP_HOST=localhost`, `SMTP_PORT=1025` and leave `SMTP_USER` empty.
+For Gmail, turn on 2-Step Verification, create an app password at https://myaccount.google.com/apppasswords and use it as `SMTP_PASSWORD`.
 
-The tables are created on the first run. The first run also saves the orders already on the register without emailing about them. After that, each new order sends an email.
+The first run creates the tables and saves the orders already on the register without emailing. After that, each new order sends an email.
 
 To see an email, delete an order and run it again:
 
@@ -64,5 +62,5 @@ New orders are saved to the `stop_work_orders` table. A trigger on that table ad
 
 - I read "SQL server database" as any SQL database and used Postgres. Moving to Microsoft SQL Server would mean rewriting the trigger and the insert in T-SQL and using pyodbc instead of psycopg.
 - An email is sent for each new order, and it says whether the company is new or already has earlier orders on the register.
-- The API doesn't have fields for the company name or number. The name comes from the order title and the ACN from the order text. Some orders don't include an ACN. If another order for the same company has one, that's used, otherwise the email says it isn't published.
+- The API has no company name or number fields. The name comes from the order title and the ACN from the order text. If an order doesn't mention the ACN, one from another order for the same company is used, otherwise the email says it isn't published.
 - "Date added" is the order's "Publication Date" on the register.
