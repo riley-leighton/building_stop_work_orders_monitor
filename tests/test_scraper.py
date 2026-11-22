@@ -4,7 +4,7 @@ from pathlib import Path
 
 from scraper import acn_from_html, company_from_title, parse_order, to_sydney_date
 
-EXAMPLE_RESPONSE = Path(__file__).parent.parent / "exampledata" / "stop_work_orders_response.json"
+EXAMPLE_RESPONSE = Path(__file__).with_name("stop_work_orders_response.json")
 
 
 def example_hits():
